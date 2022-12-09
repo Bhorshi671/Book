@@ -1,0 +1,42 @@
+body{
+    background-color:antiquewhite;
+    
+}
+form{
+    border: 3px;
+    border-style:solid;
+    border-color:darkcyan;
+}
+input[type=text], input[type=password]{
+    width: 90%;
+    margin:8px 0;
+    border: 1px solid #ccc;
+
+}
+menu:hover{
+    background: rgb(133, 8, 85);
+    color: #000;
+}
+button:hover{
+    background: #fff;
+    color: #000;
+}
+button {
+    width: 90%;
+    background-color: green;
+    text-align: center;
+}
+.imgcontainer{
+   text-align: center;
+}
+.cancelbtn{
+    width:fit-content;
+    background-color: red;
+    text-align: center;
+}
+.inner-footer{
+text-align: center;
+}
+.menu{
+background-color: cornflowerblue;
+}
